@@ -1,4 +1,4 @@
-// @ts-expect-error CSS module types are not available in this project.
+
 import css from "./Header.module.css";
 import Link from "next/link";
 
